@@ -75,3 +75,10 @@
     padding: 5px;
     margin: 5px;
   }
+
+  .sub-btn{
+    padding:5px;
+    background:rgb(44, 43, 43);
+    color:white;
+    margin-left:10px;
+  }
